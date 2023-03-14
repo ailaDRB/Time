@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+ 
+}
+html{
+ background-color: rgb(206, 206, 235);
+
+}
+h1{
+  color: aliceblue;
+}
+button{
+  color: rgb(172, 148, 195);
+  background-color: #bfcedf03;
+}
+
